@@ -1,0 +1,6 @@
+DELETE http://localhost:5000/role/delete
+Content-Type: application/json
+
+{
+  "_id": "648c5ee5cb693e26dc4f1195"
+}

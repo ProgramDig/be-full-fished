@@ -1,0 +1,7 @@
+PUT http://localhost:5000/role/update
+Content-Type: application/json
+
+{
+  "_id": "648c5fcf8331364ef8f839ee",
+  "value": "TEST1"
+}
